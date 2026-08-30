@@ -35,7 +35,7 @@ Meu objetivo é evoluir como desenvolvedor full stack, unindo visão estratégic
 </div>
 
 ##
-### Skills Design
+### Skills de Design
 <div style="display: inline_block"><br>
     <img align="center" alt="claudio-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
     <img align="center" alt="claudio-photoshop" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
