@@ -1,6 +1,6 @@
 # 🔸 Olá 👋,  Sou Claudio Dias
 **`Desenvolvedor e Analista Junior | Designer Gráfico Junior`**
-  <table>
+  <table border="0">
     <tr>
       <td><img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f7.svg" width="30"/></td>
       <td><b>Brasil</b></td>
